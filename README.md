@@ -1,4 +1,4 @@
 # BITP3123-DISTRIBUTED-APPLICATION-DEVELOPMENT
 
-
-![alt text]("Step 1 Choose any Sosial website "https://github.com/Raymond106/BITP3123-DISTRIBUTED-APPLICATION-DEVELOPMENT/blob/c6cb7f97e0da29b2b9e1812aaa8909b5e0731abf/1.PNG)
+Step 1 Choose any Sosial website 
+![alt text](https://github.com/Raymond106/BITP3123-DISTRIBUTED-APPLICATION-DEVELOPMENT/blob/c6cb7f97e0da29b2b9e1812aaa8909b5e0731abf/1.PNG)
