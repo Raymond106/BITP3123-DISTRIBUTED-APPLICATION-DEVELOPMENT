@@ -17,3 +17,12 @@ If Facebook is chosen this will show then click it <br><br>
 ![alt text](https://github.com/Raymond106/BITP3123-DISTRIBUTED-APPLICATION-DEVELOPMENT/blob/master/4.PNG)<br><br>
 
 Step 2 Follow Facebook or instagram instruction  <br>
+
+
+Output  <br>
+Facebook<br
+![alt text](https://github.com/Raymond106/BITP3123-DISTRIBUTED-APPLICATION-DEVELOPMENT/blob/master/fb.png)<br><br>
+Instagram<br
+![alt text](https://github.com/Raymond106/BITP3123-DISTRIBUTED-APPLICATION-DEVELOPMENT/blob/master/insta.png)<br><br>
+
+<br><br>ENJOY
