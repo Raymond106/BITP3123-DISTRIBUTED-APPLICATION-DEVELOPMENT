@@ -20,9 +20,9 @@ Step 2 Follow Facebook or instagram instruction  <br>
 
 
 Output  <br>
-Facebook<br
+Facebook<br>
 ![alt text](https://github.com/Raymond106/BITP3123-DISTRIBUTED-APPLICATION-DEVELOPMENT/blob/master/fb.png)<br><br>
-Instagram<br
+Instagram<br>
 ![alt text](https://github.com/Raymond106/BITP3123-DISTRIBUTED-APPLICATION-DEVELOPMENT/blob/master/insta.png)<br><br>
 
 <br><br>ENJOY
